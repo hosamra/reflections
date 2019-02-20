@@ -1,0 +1,59 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Fill in your answer here
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Fill in your answer here
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Fill in your answer here
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Fill in your answer here
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Fill in your answer here
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Fill in your answer here
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
+
+
+    How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+it will help me to learn from my past
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+for manually it is good to avoid short commit and crowding but not good if  u forgot to save u will loose last commit 
+so it is good thing in automatic
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+maybe because google uses files working separately so they should be separated while git accept all files so it allows multiple and separately saving
+in one commit.
+
+
+How can you use the commands git log and git diff to view the history of files?
+type get log to find ids then type git diff with ids of two commits that i want to compare.
+
+
+How might using version control make you more confident to make changes that could break something?
+i still cant find it useful
+
+Now that you have your workspace set up, what do you want to try using Git for?
+nothing really
