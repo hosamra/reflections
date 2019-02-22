@@ -1,2 +1,13 @@
 What happens when you initialize a repository? Why do you need to do it?
 nothing , actually i dont know 
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+in stage area files are being tracked while in working are not , the value that we can know the changes
+
+How can you use the staging area to make sure you have one commit per logical change?
+------
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+when iam not sure about the change iam doing 
